@@ -10,7 +10,7 @@ Tenho grande interesse em aprofundar meus conhecimentos na área de tecnologia, 
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 src="https://github-readme-stats.vercel.app/api?username=ORMatheus&theme=ayu_mirage&show_icons=true&count_private=true&hide_border=true" alt="Matheus GitHub Stats" />
+    <img height=150 src="https://github-readme-stats.vercel.app/api?username=ORMatheus&show_icons=true&count_private=false&hide_border=true" alt="Matheus GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ORMatheus&layout=compact&theme=ayu_mirage&hide_border=true" alt="Matheus Top Languages" />
