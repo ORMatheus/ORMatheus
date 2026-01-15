@@ -6,13 +6,7 @@ Estudante de **Ciência da Computação** em busca de uma oportunidade de **est�
 
 Tenho grande interesse em aprofundar meus conhecimentos na área de tecnologia, especialmente através da aplicação prática dos conceitos que venho aprendendo na graduação. Sou comprometido, empenhado e sempre disposto a aprender coisas novas. Acredito que o estágio será uma etapa essencial para meu desenvolvimento profissional e estou entusiasmado para contribuir com responsabilidade em uma equipe que valorize o crescimento.
 
----
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ORMatheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/ORMatheus)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ORMatheus&layout=compact&langs_count=16&theme=dracula)](https://github.com/ORMatheus)
-
----
 
 ### 💻 Linguagens e Tecnologias
 
